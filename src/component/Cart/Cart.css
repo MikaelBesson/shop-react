@@ -1,0 +1,26 @@
+
+
+.panier {
+
+    width: 30%;
+    height: 30rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 5vw;
+}
+
+.panier ul {
+    list-style: none;
+}
+
+.panier li {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1% 2vw;
+}
+
+button {
+    display: flex;
+    margin: 0 auto;
+}

@@ -1,0 +1,25 @@
+
+.QuantitySelector {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.QuantitySelector .moins {
+    background-color: #c4bfbf;
+    border-radius: 5px;
+}
+
+.QuantitySelector .plus {
+    background-color: #0ea0c9;
+    color: white;
+    border-radius: 5px;
+}
+.QuantitySelector span {
+    width: 2vw;
+    height: 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
